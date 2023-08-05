@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+
+body {
+    font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.top1 img {
+    border: 3px;
+    border-style: solid;
+    color: black;
+    display: inline;
+
+}
+.top1 {
+    width: 448px;
+}
+
+h1 {
+     display: inline;
+    color: dimgray;
+
+}
+
+h2 {
+
+    display: inline;
+    color: dimgray;
+
+}
+.right1 {
+    float: right;
+    text-align: center;
+}
+.right1>table {
+    float: right;
+    border-style: solid;
+    border-width: 0.5px;
+}
+.right1 th {
+    background-color: rgb(156, 144, 144);
+
+}
+
+.right1 td {
+    padding-left: 15px;
+    padding-right: 100px;
+    background-color: rgb(209, 224, 224);
+}
